@@ -1,5 +1,4 @@
-# NamalaRevanKumar
-About me
+
 <h1 align="center">Hi 👋, I'm Namala Revan Kumar</h1>
 <h3 align="center">Cyber Security Student | Startup Developer @ SkillSynth & Founder of EdVanceHub | Web & AI Developer | Tech Enthusiast</h3>
 
