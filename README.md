@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Namala Revan Kumar</h1>
 <h3 align="center">Cyber Security Student | Startup Developer @ SkillSynth & Founder of EdVanceHub | Web & AI Developer | Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chintu127&label=Profile%20views&color=0e75b6&style=flat" alt="chintu127" /> </p>
-
 - Hi,Iam currently working project [Skillsynth](https://skillsynth.renderforestsites.com/)
 
 - 🌱 I’m currently learning **java,Web development**
@@ -20,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/namala revan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namala revan kumar" height="30" width="40" /></a>
+<a href="https://fb.com/namala revan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="namala revan kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/chintu_4_4_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chintu_4_4_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@namalarevankuma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@namalarevankuma1" height="30" width="40" /></a>
 </p>
